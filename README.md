@@ -1,7 +1,3 @@
-### Github Tutorial
+### Using this as a file repository for various clock digit faces for the Elekstube IPS
 
-####1. [How to Host Files on Github](http://www.labnol.org/internet/free-file-hosting-github/29092/)
-
-####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
-
-Append ?raw=true to any file URL on Github to get the direct link.
+### I'm creating branches to put different faces; each branch will contain the BMP files, and the (optional) compiled BIN and gallery JPG (in the event you want to replace one of the default, existing faces in the app
